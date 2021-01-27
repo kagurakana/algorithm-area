@@ -43,4 +43,4 @@ function fib2(n) {
   }
   return next
 }
-console.log('优化后: ', fib2(5))
+console.log('优化后: ', fib2(5)) 
