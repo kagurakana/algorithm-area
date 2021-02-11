@@ -16,8 +16,6 @@ for 选择 in 选择列表:
 
 //从[1,2,3]中输出全排列
 
-let rest = []
-
 function permutation(rest, chooseList) {
   if (rest.length === 0) {
     console.log(...chooseList)
